@@ -138,6 +138,6 @@ def onStep():
     
     
     
-    //#cleat image
-    //#Image('http://www.clker.com/cliparts/S/R/r/K/v/4/soccer-shoe-md.png', 90, 200)
+    #cleat image
+    #Image('http://www.clker.com/cliparts/S/R/r/K/v/4/soccer-shoe-md.png', 90, 200)
     
